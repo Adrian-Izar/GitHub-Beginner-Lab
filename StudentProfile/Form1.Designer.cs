@@ -49,9 +49,9 @@
             label2.Font = new Font("Segoe UI Semibold", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
             label2.Location = new Point(78, 187);
             label2.Name = "label2";
-            label2.Size = new Size(486, 47);
+            label2.Size = new Size(545, 47);
             label2.TabIndex = 1;
-            label2.Text = "Contact Number: 0917123467";
+            label2.Text = "Contact Number: 0917156767467";
             // 
             // Form1
             // 
