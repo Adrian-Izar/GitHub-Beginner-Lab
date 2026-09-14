@@ -35,11 +35,12 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI Semibold", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label1.Location = new Point(155, 180);
+            label1.Location = new Point(93, 181);
             label1.Name = "label1";
-            label1.Size = new Size(483, 47);
+            label1.Size = new Size(642, 47);
             label1.TabIndex = 0;
-            label1.Text = "Student Profile — Adrian Izar";
+            label1.Text = "Student Profile — GitHub Beginner Lab";
+            label1.Click += label1_Click;
             // 
             // Form1
             // 
